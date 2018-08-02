@@ -1,4 +1,4 @@
-import { elements } from './base';
+import { elements, renderLoader } from './base';
 
 export const getInput = () => elements.searchInput.value; // one line implicit return
 
